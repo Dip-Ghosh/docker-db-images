@@ -15,7 +15,7 @@ Perfect for local development, testing, and DataGrip connections.
 - Persistent Docker volumes
 - Auto SQL initialization support
 -  Easy DataGrip integration
-📁 Project Structure
+### 📁 Project Structure
     dockerDB/
     ├── docker-compose.yml
     ├── mysql-init/
